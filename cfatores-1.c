@@ -1,6 +1,3 @@
-// Algoritmo simplista para contagem de fatores primos de um nœmero
-// Copyright (c) Alexandre Duarte - alexandrend@gmail.com
-
 #include <stdio.h>
 
 int ehprimo( int n) {
